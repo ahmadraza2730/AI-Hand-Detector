@@ -44,10 +44,6 @@ g++ hand_detector.cpp -o HandDetector `pkg-config --cflags --libs opencv4`
 ./HandDetector
 ```
 
-## 📸 Preview
-
-*(Add a screenshot or GIF of the hand detection running — this is a visual project, so a demo clip will make this repo stand out a lot!)*
-
 ## 🎓 Why I Built This
 
 I built this project to explore practical applications of computer vision and understand how detection models process real-time video data — bridging my C++ foundations with Python's ML/CV ecosystem.
