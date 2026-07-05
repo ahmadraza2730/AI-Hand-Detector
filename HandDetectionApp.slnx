@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HandDetectionApp.vcxproj" Id="3d660fa2-67a8-40ea-aed6-689a211d2a87" />
+</Solution>
